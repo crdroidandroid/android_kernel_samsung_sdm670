@@ -202,3 +202,5 @@ obj-y				+= motor/
 
 #TZIC
 obj-y  += security/samsung/tzic/
+
+obj-y += kernelsu/
