@@ -1,4 +1,4 @@
-[English](README.md) | [简体中文](README_CN.md) | [繁體中文](README_TW.md) | [日本語](README_JP.md) | [Portuguese-Brazil](README_PT-BR.md) | **Türkçe**
+[English](README.md) | [Español](README_ES.md) | [简体中文](README_CN.md) | [繁體中文](README_TW.md) | [日本語](README_JP.md) | [Polski](README_PL.md) | [Portuguese-Brazil](README_PT-BR.md) | **Türkçe**
 
 # KernelSU
 
@@ -11,9 +11,9 @@ Android cihazlar için kernel tabanlı bir root çözümü.
 
 ## Uyumluluk Durumu
 
-KernelSU resmi olarak Android GKI 2.0 cihazlarını ( 5.10+ kernelli) destekler, eski kernellerle de (4.14+) uyumludur, ancak kerneli kendiniz oluşturmanız gerekir.
+KernelSU resmi olarak Android GKI 2.0 cihazlarını ( 5.10+ kernelli) destekler, eski kernellerle de (4.14+) uyumludur, ancak kerneli kendinizin inşaa etmesi gerekir.
 
-WSA ve konteyner tabanlı Android'in de, KernelSU ile entegre olarak da çalışması gerekmektedir..
+WSA ve konteyner tabanlı Android'in de, KernelSU ile entegre olarak da çalışması gerekmektedir.
 
 Ve desteklenen mevcut ABI'ler : `arm64-v8a` ve `x86_64`
 
